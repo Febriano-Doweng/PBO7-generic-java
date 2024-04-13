@@ -2,7 +2,7 @@ import java.util.List;
 
 public class Iterations {
 
-    static Iterable<String> names = List.of("Rifqi", "Faisal", "Hikam");
+    static Iterable<String> names = List.of("Febriano", "Antonetah", "Nadia");
     static java.util.Iterator<String> Iterator = names.iterator();
 
     public static void iterable() {
